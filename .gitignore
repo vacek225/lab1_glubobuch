@@ -1,0 +1,10 @@
+# Local Python environment
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Dataset files should not be committed
+winequality-red.csv
+winequality-white.csv
+winequality.names
+data/
